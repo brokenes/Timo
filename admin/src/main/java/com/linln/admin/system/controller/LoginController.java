@@ -35,8 +35,8 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
- * @author 小懒虫
- * @date 2018/8/14
+ *
+ * 8/14
  */
 @Controller
 public class LoginController implements ErrorController {

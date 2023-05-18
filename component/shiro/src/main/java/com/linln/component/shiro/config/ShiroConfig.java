@@ -22,8 +22,8 @@ import java.util.HashMap;
 import java.util.LinkedHashMap;
 
 /**
- * @author 小懒虫
- * @date 2018/8/14
+ *
+ * 8/14
  */
 @Configuration
 public class ShiroConfig {

@@ -3,8 +3,8 @@ package com.linln.devtools.generate.domain;
 import lombok.Data;
 
 /**
- * @author 小懒虫
- * @date 2018/10/21
+ * 
+ * 10/21
  */
 @Data
 public class Template {

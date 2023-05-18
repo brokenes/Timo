@@ -6,8 +6,8 @@ import org.springframework.data.domain.Sort;
 
 /**
  * 分页排序数据
- * @author 小懒虫
- * @date 2018/12/8
+ * 
+ * 12/8
  */
 public class PageSort {
 

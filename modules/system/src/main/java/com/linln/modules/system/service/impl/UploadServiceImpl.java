@@ -7,8 +7,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 /**
- * @author 小懒虫
- * @date 2018/11/02
+ * 
+ * 11/02
  */
 @Service
 public class UploadServiceImpl implements UploadService {

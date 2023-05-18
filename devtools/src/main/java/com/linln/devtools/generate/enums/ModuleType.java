@@ -4,7 +4,7 @@ import lombok.Getter;
 
 /**
  * 代码生成-模块结构类型
- * @author 小懒虫
+ * 
  * @date 2019/4/6
  */
 @Getter

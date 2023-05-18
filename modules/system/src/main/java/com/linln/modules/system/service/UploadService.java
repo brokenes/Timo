@@ -3,8 +3,8 @@ package com.linln.modules.system.service;
 import com.linln.modules.system.domain.Upload;
 
 /**
- * @author 小懒虫
- * @date 2018/11/02
+ * 
+ * 11/02
  */
 public interface UploadService {
 

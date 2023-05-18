@@ -22,7 +22,7 @@ import org.springframework.web.bind.annotation.RestController;
  * 默认登录验证控制器
  * 说明：默认采用系统用户进行登录验证
  *
- * @author 小懒虫
+ * 
  * @date 2019/4/9
  */
 @RestController

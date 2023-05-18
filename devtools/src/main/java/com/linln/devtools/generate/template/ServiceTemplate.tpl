@@ -7,7 +7,7 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.List;
 
 /**
- * @author 小懒虫
+ *
  * @date 2019/4/4
  */
 public interface #{entity}Service {

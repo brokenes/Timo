@@ -3,8 +3,8 @@ package com.linln.modules.system.enums;
 import lombok.Getter;
 
 /**
- * @author 小懒虫
- * @date 2018/10/14
+ * 
+ * 10/14
  */
 @Getter
 public enum ActionLogEnum {

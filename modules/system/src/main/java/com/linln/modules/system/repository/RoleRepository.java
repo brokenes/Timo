@@ -10,8 +10,8 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * @author 小懒虫
- * @date 2018/8/14
+ * 
+ * 8/14
  */
 public interface RoleRepository extends BaseRepository<Role,Long> {
 

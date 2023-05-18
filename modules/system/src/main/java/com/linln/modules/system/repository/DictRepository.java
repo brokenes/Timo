@@ -3,8 +3,8 @@ package com.linln.modules.system.repository;
 import com.linln.modules.system.domain.Dict;
 
 /**
- * @author 小懒虫
- * @date 2018/8/14
+ *
+ * 8/14
  */
 public interface DictRepository extends BaseRepository<Dict, Long> {
 

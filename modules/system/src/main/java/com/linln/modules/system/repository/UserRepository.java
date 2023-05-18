@@ -7,8 +7,8 @@ import org.springframework.data.jpa.repository.JpaSpecificationExecutor;
 import java.util.List;
 
 /**
- * @author 小懒虫
- * @date 2018/8/14
+ * 
+ * 8/14
  */
 public interface UserRepository extends BaseRepository<User, Long>, JpaSpecificationExecutor<User> {
 

@@ -14,7 +14,7 @@ import java.util.stream.Collectors;
 
 /**
  * java节点对象
- * @author 小懒虫
+ *
  * @date 2019/3/28
  */
 public class Node<T> {

@@ -5,8 +5,8 @@ import net.sf.ehcache.CacheManager;
 
 /**
  * EhCache缓存操作工具
- * @author 小懒虫
- * @date 2018/11/7
+ *
+ * 11/7
  */
 public class EhCacheUtil {
 

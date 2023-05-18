@@ -4,7 +4,7 @@ import com.linln.devtools.generate.utils.jAngel.JAngel;
 
 /**
  * 字段或内部变量节点
- * @author 小懒虫
+ *
  * @date 2019/3/28
  */
 public class FieldNode extends Modifier {

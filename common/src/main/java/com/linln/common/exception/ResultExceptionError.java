@@ -4,7 +4,7 @@ import com.linln.common.enums.ResultEnum;
 
 /**
  * 自定义异常对象{统一异常处理：失败}
- * @author 小懒虫
+ *
  * @date 2019/10/17
  */
 public class ResultExceptionError extends ResultException {

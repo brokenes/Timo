@@ -5,7 +5,7 @@ import lombok.Getter;
 
 /**
  * jwt结果集枚举
- * @author 小懒虫
+ * 
  * @date 2019/4/13
  */
 @Getter

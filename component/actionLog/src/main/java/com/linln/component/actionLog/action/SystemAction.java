@@ -6,8 +6,8 @@ import com.linln.component.actionLog.action.model.SystemMethod;
 import com.linln.modules.system.domain.ActionLog;
 
 /**
- * @author 小懒虫
- * @date 2018/10/19
+ * 
+ * 10/19
  */
 public class SystemAction extends BaseActionMap {
 

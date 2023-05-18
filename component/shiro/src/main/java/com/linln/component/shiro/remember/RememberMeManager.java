@@ -15,7 +15,7 @@ import java.util.Arrays;
 /**
  * 记住我管理器
  *
- * @author 小懒虫
+ *
  * @date 2019/10/28
  */
 public class RememberMeManager extends CookieRememberMeManager {

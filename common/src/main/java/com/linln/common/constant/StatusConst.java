@@ -2,7 +2,7 @@ package com.linln.common.constant;
 
 /**
  * 数据状态常量
- * @author 小懒虫
+ *
  * @date 2019/2/22
  */
 public class StatusConst {
